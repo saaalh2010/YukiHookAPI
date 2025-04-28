@@ -1,3 +1,7 @@
+![Screenshot_2025-03-18-03-21-49-32_b7e9024f54bdc0532418cb6e23c85a7c](https://github.com/user-attachments/assets/39afdbbb-8833-41de-b930-746a997e1ed2)
+![Screenshot_2025-04-24-10-33-02-57_75eb11136b7a599084dfb72f722b6ef4](https://github.com/user-attachments/assets/fda9b53c-9b48-4252-bc29-c1d133b0e69b)
+![Screenshot_2025-04-24-10-33-02-57_75eb11136b7a599084dfb72f722b6ef4](https://github.com/user-attachments/assets/a3c12793-0309-41c3-8ffc-81624d5173c4)
+![17458037047912577950981859007771](https://github.com/user-attachments/assets/0e5531e2-713c-44f6-afba-f8c2111e27e3)
 # Introduce
 
 > `YukiHookAPI` is an integrated Hook API Framework, which does not provide any Hook functions, and needs the support of Xposed related basic APIs.
@@ -129,4 +133,5 @@ class HookEntry : IXposedHookZygoteInit, IXposedHookLoadPackage {
 
 Yes, you read that right, just needing these codes can completely replace the traditional Xposed API to achieve the same function.
 
-Now, with the help of the efficient and powerful `YukiHookAPI`, you can implement a very simple Xposed Module.
+Now, with the help of the efficient and powerful `Yuk![logo](https://github.com/user-attachments/assets/5a78affd-bc56-4c4a-8662-353939188359)
+iHookAPI`, you can implement a very simple Xposed Module.
